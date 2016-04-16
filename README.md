@@ -3,11 +3,11 @@
 **Tags:** theme, plugin, editor, lock , editor lock, editor locking, admin, wisdmlabs, Editor Lock by WisdmLabs, theme editor, plugin editor, wordpress lock, wordpress, lab  
 **Requires at least:** 3.3.1  
 **Tested up to:**  3.8.1  
-**Stable tag:** 1.5  
+**Stable tag:** 1.5 
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-This is a plugin which allows WordPress administrator, selectively restrict other administrators from accessing the WordPress theme and plugin editors. 
+This is a plugin which allows WordPress administrator, selectively restrict other administrators from accessing the WordPress theme and plugin editors.
 
 ## Description ##
 
